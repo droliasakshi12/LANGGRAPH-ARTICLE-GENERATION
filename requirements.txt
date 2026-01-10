@@ -1,0 +1,8 @@
+python-dotenv
+langgraph
+langchain
+langchain-openai
+pydantic
+typing_extensions
+python-docx
+streamlit
