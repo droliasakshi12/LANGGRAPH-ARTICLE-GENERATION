@@ -37,7 +37,6 @@ pip install -r requirements.txt
 | `requirements.txt` | List of Python dependencies |
 | `README.md` | Project documentation (you are here) |
 
-> ⚠️ **Important:** Do *not* commit real API keys or passwords — only use environment files with placeholders.
 
 ---
 
